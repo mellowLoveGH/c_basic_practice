@@ -1,0 +1,11 @@
+student_1	77
+student_2	90
+student_3	80
+student_4	70
+student_5	90
+student_6	80
+student_7	100
+
+student_8	90
+student_9	80
+
